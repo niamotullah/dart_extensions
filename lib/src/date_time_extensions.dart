@@ -1,4 +1,4 @@
-extension DateTimeEpoch on DateTime {
+extension DateTimeExtensions on DateTime {
   /// Convert to seconds since epoch (Unix timestamp)
   int get secondsSinceEpoch => millisecondsSinceEpoch ~/ 1000;
 

@@ -3,4 +3,4 @@
 /// More dartdocs go here.
 library;
 
-export 'src/date_time.dart';
+export 'src/date_time_extensions.dart';
